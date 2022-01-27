@@ -182,7 +182,7 @@ int main()
     //     cout<<endl;
     // }
 
-    int a;
-    a = (3/2)%10;
-    cout<<a;
+    vector<int> a{1,3,5,6};
+    cout<<lower_bound(a.begin(), a.end(), 4) - a.begin()<<"\n";
+    cout<<upper_bound(a.begin(), a.end(), 4) - a.begin();
 }
