@@ -1,0 +1,1 @@
+{"name":"Local: SumOfTwoValues","url":"c:\\Users\\saich\\Documents\\CP\\CSES_Problem_Set\\SumOfTwoValues.cpp","tests":[{"id":1643268498311,"input":"4 8\n2 7 5 1","output":"2 4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\saich\\Documents\\CP\\CSES_Problem_Set\\SumOfTwoValues.cpp","group":"local","local":true}
