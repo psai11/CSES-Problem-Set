@@ -106,7 +106,7 @@ int main()
     // s.insert(5);
     // s.insert(5);
     // s.insert(1);
-    // // cout<< s[1]; // not correct
+    // cout<< s[1]; // not correct
     // for (auto x : s) {
     //     cout << x << "\n";
     // }
@@ -182,7 +182,26 @@ int main()
     //     cout<<endl;
     // }
 
-    vector<int> a{1,3,5,6};
-    cout<<lower_bound(a.begin(), a.end(), 4) - a.begin()<<"\n";
-    cout<<upper_bound(a.begin(), a.end(), 4) - a.begin();
+    // vector<int> a{1,3,5,6};
+    // auto c = lower_bound(a.begin(), a.end(), 5);
+    // auto b = upper_bound(a.begin(), c, 4);
+    // cout<<b-a.begin();
+
+    // vector<int> v1{ 10, 5, 30, 40, 50 };
+
+    // //printing elements
+    // cout << "vector elements..." << endl;
+    // for (int x : v1)
+    //     cout << x << " ";
+    // cout << endl;
+
+    // //finding the minimum element
+    // int min = *min_element(v1.begin(), v1.begin());
+
+    // cout << "minimum/smallest element is: " << min << endl;
+
+
+    
+
+    return 0;
 }

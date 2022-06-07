@@ -5,6 +5,9 @@
         "initializer_list": "cpp",
         "vector": "cpp",
         "xutility": "cpp",
-        "limits": "cpp"
+        "limits": "cpp",
+        "exception": "cpp",
+        "iterator": "cpp",
+        "tuple": "cpp"
     }
 }
